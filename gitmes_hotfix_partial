@@ -1,0 +1,18 @@
+PARTIAL HOTFIX
+--------------
+
+Sprint:
+Version:
+Bug:
+Details:
+
+
+# Lines starting with '#' will be ignored, and an empty message aborts the commit.
+#
+# Sprint  	--> Numero de sprint actual
+# Version	--> Version de produccion en la que se encontro el bug
+# Bug		--> Id y descripcion del bug reportado que se esta solucionando. Ej: (3450) No muestra popup al 
+guardar solicitud
+# Details	--> Detalles de implementacion relevantes
+
+

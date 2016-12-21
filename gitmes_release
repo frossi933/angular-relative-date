@@ -1,0 +1,17 @@
+RELEASE
+-------
+
+Sprint:
+Release:
+Features:
+Details:
+
+
+# Lines starting with '#' will be ignored, and an empty message aborts the commit.
+#
+# Sprint  	--> Numero de sprint actual
+# Release	--> Numero de version de la release
+# Features	--> Descripcion de las nuevas caracteristicas incluidas en este release (AUTO GEN)
+# Details	--> Detalles de implementacion relevantes
+
+
