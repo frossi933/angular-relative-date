@@ -1,0 +1,17 @@
+FEATURE
+-------
+
+Sprint:
+User Story:
+Task:
+Details:
+
+
+# Lines starting with '#' will be ignored, and an empty message aborts the commit.
+#
+# Sprint  	--> Numero de sprint actual
+# User Story 	--> Id de User Story a la cual pertenece el commit
+# Task 		--> Descripcion de la tarea que comprende el commit
+# Details	--> Detalles de implementacion relevantes
+
+
