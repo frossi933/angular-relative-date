@@ -1,0 +1,17 @@
+BUGFIX
+------
+
+Sprint:
+Version:
+Bug:
+Details:
+
+
+# Lines starting with '#' will be ignored, and an empty message aborts the commit.
+#
+# Sprint  	--> Numero de sprint actual
+# Version	--> Version de testing en la que se encontro el bug
+# Bug		--> Descripcion del bug reportado que se soluciono
+# Details	--> Detalles de implementacion relevantes
+
+
