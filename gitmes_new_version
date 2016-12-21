@@ -1,0 +1,17 @@
+NEW VERSION
+-----------
+
+Sprint:
+Version:
+Features:
+Details:
+
+
+# Lines starting with '#' will be ignored, and an empty message aborts the commit.
+#
+# Sprint  	--> Numero de sprint actual
+# Version	--> Version de produccion en la que se encontro el bug
+# Features	--> Descripcion de las funcionalidades incluidas
+# Details	--> Detalles de implementacion relevantes
+
+
